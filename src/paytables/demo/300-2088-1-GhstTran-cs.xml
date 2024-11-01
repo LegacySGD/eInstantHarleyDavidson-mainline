@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="cs">
+<phrase key="softwareId" value="ID softwaru"/>
+<phrase key="transactionId" value="ID transakce"/>
+<phrase key="totalWins" value="Výhry celkem"/>
+<phrase key="totalWager" value="Celková sázka"/>
+<phrase key="game" value="Hra"/>
+<phrase key="prize" value="Výhra"/>
+<phrase key="yourRPM" value="Vaše RPM"/>
+<phrase key="rivalsRPM" value="Soupeřovy RPM"/>
+<phrase key="gameResult" value="Výsledek hry"/>
+<phrase key="win" value="VÝHRA"/>
+<phrase key="noWin" value="ŽÁDNÁ VÝHRA"/>
+<phrase key="gameWinnings" value="Výhry ze hry"/>
+<phrase key="symbol" value="Symbol"/>
+<phrase key="miss" value="Vedle"/>
+<phrase key="wheelResult" value="Výsledek kola"/>
+<phrase key="blank" value="Prázdný"/>
+<phrase key="match" value="Shoda"/>
+<phrase key="selection" value="Volba"/>
+<phrase key="garage" value="Garáž"/>
+<phrase key="A" value="Harley"/>
+<phrase key="bike" value="Jízdní kolo"/>
+<phrase key="tires" value="Pneumatiky"/>
+<phrase key="melons" value="Melouny"/>
+<phrase key="jetSki" value="Vodní skútr"/>
+<phrase key="boxes" value="Krabičky"/>
+<phrase key="wheelbarrow" value="Kolečko"/>
+<phrase key="black" value="Černá"/>
+<phrase key="red" value="Červená"/>
+<phrase key="yellow" value="Žlutá"/>
+<phrase key="blue" value="Modrá"/>
+<phrase key="turquoise" value="Tyrkysová"/>
+<phrase key="purple" value="Purpurová"/>
+<phrase key="white" value="Bílá"/>
+</translation>

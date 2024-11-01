@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="fi">
+<phrase key="softwareId" value="Ohjelmiston tunniste"/>
+<phrase key="transactionId" value="Tapahtuman tunniste"/>
+<phrase key="totalWins" value="Kokonaisvoitot"/>
+<phrase key="totalWager" value="Kokonaispanos"/>
+<phrase key="game" value="Peli"/>
+<phrase key="prize" value="Palkinto"/>
+<phrase key="yourRPM" value="Kierroslukusi"/>
+<phrase key="rivalsRPM" value="Vastustajan kierrosluku"/>
+<phrase key="gameResult" value="Pelin tulos"/>
+<phrase key="win" value="VOITTO"/>
+<phrase key="noWin" value="EI VOITTOA"/>
+<phrase key="gameWinnings" value="Pelin voitot"/>
+<phrase key="symbol" value="Symboli"/>
+<phrase key="miss" value="Huti"/>
+<phrase key="wheelResult" value="Pyörän tulos"/>
+<phrase key="blank" value="Tyhjä"/>
+<phrase key="match" value="Sama"/>
+<phrase key="selection" value="Valinta"/>
+<phrase key="garage" value="Autotalli"/>
+<phrase key="A" value="Harley"/>
+<phrase key="bike" value="Pyörä"/>
+<phrase key="tires" value="Renkaat"/>
+<phrase key="melons" value="Melonit"/>
+<phrase key="jetSki" value="Vesiskootteri"/>
+<phrase key="boxes" value="Laatikot"/>
+<phrase key="wheelbarrow" value="Kottikärryt"/>
+<phrase key="black" value="Musta"/>
+<phrase key="red" value="Punainen"/>
+<phrase key="yellow" value="Keltainen"/>
+<phrase key="blue" value="Sininen"/>
+<phrase key="turquoise" value="Turkoosi"/>
+<phrase key="purple" value="Violetti"/>
+<phrase key="white" value="Valkoinen"/>
+</translation>

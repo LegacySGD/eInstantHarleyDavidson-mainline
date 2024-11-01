@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="da">
+<phrase key="softwareId" value="Software-ID"/>
+<phrase key="transactionId" value="Overførsels-ID"/>
+<phrase key="totalWins" value="Samlet gevinst"/>
+<phrase key="totalWager" value="Samlet indsats"/>
+<phrase key="game" value="Spil"/>
+<phrase key="prize" value="Præmie"/>
+<phrase key="yourRPM" value="Din omdrejningstæller"/>
+<phrase key="rivalsRPM" value="Konkurrentens omdrejningstæller"/>
+<phrase key="gameResult" value="Spilresultat"/>
+<phrase key="win" value="GEVINST"/>
+<phrase key="noWin" value="INGEN GEVINST"/>
+<phrase key="gameWinnings" value="Spilgevinster"/>
+<phrase key="symbol" value="Symbol"/>
+<phrase key="miss" value="Kikser"/>
+<phrase key="wheelResult" value="Hjulresultat"/>
+<phrase key="blank" value="Blank"/>
+<phrase key="match" value="Ens"/>
+<phrase key="selection" value="Udvalg"/>
+<phrase key="garage" value="Garage"/>
+<phrase key="A" value="Harley"/>
+<phrase key="bike" value="Cykel"/>
+<phrase key="tires" value="Dæk"/>
+<phrase key="melons" value="Meloner"/>
+<phrase key="jetSki" value="Jetski"/>
+<phrase key="boxes" value="Kasser"/>
+<phrase key="wheelbarrow" value="Trillebør"/>
+<phrase key="black" value="Sort"/>
+<phrase key="red" value="Rød"/>
+<phrase key="yellow" value="Gul"/>
+<phrase key="blue" value="Blå"/>
+<phrase key="turquoise" value="Turkis"/>
+<phrase key="purple" value="Lilla"/>
+<phrase key="white" value="Hvid"/>
+</translation>

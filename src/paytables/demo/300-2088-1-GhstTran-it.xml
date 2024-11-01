@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translation language="it">
+<phrase key="softwareId" value="ID Software"/>
+<phrase key="transactionId" value="ID Transazione"/>
+<phrase key="totalWins" value="Totale Vincite"/>
+<phrase key="totalWager" value="Puntata Totale"/>
+<phrase key="game" value="Partita"/>
+<phrase key="prize" value="Premio"/>
+<phrase key="yourRPM" value="Tuo RPM"/>
+<phrase key="rivalsRPM" value="RPM avversario"/>
+<phrase key="gameResult" value="Risultato della partita"/>
+<phrase key="win" value="VINCI"/>
+<phrase key="noWin" value="NON VINCI"/>
+<phrase key="gameWinnings" value="Vincite di gioco"/>
+<phrase key="symbol" value="Simbolo"/>
+<phrase key="miss" value="Mancati"/>
+<phrase key="wheelResult" value="Risultato della ruota"/>
+<phrase key="blank" value="Vuoto"/>
+<phrase key="match" value="Abbina"/>
+<phrase key="selection" value="Selezione"/>
+<phrase key="garage" value="Garage"/>
+<phrase key="A" value="Harley"/>
+<phrase key="bike" value="Bicicletta"/>
+<phrase key="tires" value="Pneumatici"/>
+<phrase key="melons" value="Melone"/>
+<phrase key="jetSki" value="Moto d’acqua"/>
+<phrase key="boxes" value="Scatole"/>
+<phrase key="wheelbarrow" value="Carretto"/>
+<phrase key="black" value="Nero"/>
+<phrase key="red" value="Rosso"/>
+<phrase key="yellow" value="Giallo"/>
+<phrase key="blue" value="Blu"/>
+<phrase key="turquoise" value="Turchese"/>
+<phrase key="purple" value="Viola"/>
+<phrase key="white" value="Bianco"/>
+</translation>
